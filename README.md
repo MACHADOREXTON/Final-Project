@@ -2,6 +2,7 @@
 Predicting Customer Churn in Telecom Industry
 
 What is Customer Churn?
+
 Customer churn is defined as when customers or subscribers discontinue doing business with a
 firm or service.
 Customers in the telecom industry can choose from a variety of service providers and actively
@@ -21,6 +22,8 @@ businesses may not only preserve their market position, but also grow and thrive
 customers they have in their network, the lower the cost of initiation and the larger the profit. As
 a result, the company's key focus for success is reducing client attrition and implementing
 effective retention strategy.
+
+
 Business Aspects
 Customers usually do not decide to switch to another competitor instantly, but rather over a
 period (especially applicable to high-value customers). In churn prediction, we assume that there
